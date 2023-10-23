@@ -1,0 +1,100 @@
+1	Given a list of integers, find the sum of all elements using Java Streams.
+2	How do you find the maximum value in a list of integers using Java Streams?
+3	Write a Java Stream to convert a list of strings to uppercase.
+4	Given a list of strings, filter out all strings with a length less than 5 using Java Streams.
+5	Write a Java Stream to find the average of a list of doubles.
+6	Given a list of integers, find the product of all elements using Java Streams.
+7	Write a Java Stream to remove all duplicates from a list of strings.
+8	Given a list of integers, find the square of each number using Java Streams.
+9	How do you sort a list of strings in ascending order using Java Streams?
+10	Write a Java Stream to filter out all even numbers from a list of integers.
+11	Given a list of strings, concatenate them all into a single string using Java Streams.
+12	Write a Java Stream to find the minimum value in a list of doubles.
+13	Given a list of strings, count the number of occurrences of a specific character using Java Streams.
+14	How do you check if a list of strings contains a specific substring using Java Streams?
+15	Write a Java Stream to find the longest string in a list of strings.
+16	Given a list of integers, find the average of the square of each number using Java Streams.
+17	Write a Java Stream to filter out all strings that start with a certain prefix.
+18	How do you check if all elements in a list of booleans are true using Java Streams?
+19	Given a list of strings, sort them in descending order of their lengths using Java Streams.
+20	Write a Java Stream to find the first 5 elements of a list of integers.
+21	Given a list of strings, find the shortest string length using Java Streams.
+22	How do you check if any element in a list of integers is divisible by a specific number using Java Streams?
+23	Write a Java Stream to find the third to sixth elements of a list of strings.
+24	Given a list of integers, find the maximum value less than 100 using Java Streams.
+25	How do you check if none of the elements in a list of strings are empty using Java Streams?
+26	Write a Java Stream to find the sum of the squares of even numbers in a list of integers.
+27	Given a list of strings, remove all strings with a length greater than 10 using Java Streams.
+28	How do you check if a list of strings contains at least one palindrome using Java Streams?
+29	Write a Java Stream to find the distinct characters in a list of strings.
+30	Given a list of integers, find the product of the square of each number using Java Streams.
+31	How do you check if a list of strings contains only numeric values using Java Streams?
+32	Write a Java Stream to filter out all strings that are null or empty.
+33	Given a list of strings, find the average length of the strings using Java Streams.
+34	How do you check if all elements in a list of integers are positive using Java Streams?
+35	Write a Java Stream to find the second smallest element in a list of integers.
+36	Given a list of strings, find the number of strings that have a length of 7 using Java Streams.
+37	How do you check if any element in a list of doubles is NaN using Java Streams?
+38	Write a Java Stream to find the maximum length among strings that start with a vowel in a list of strings.
+39	Given a list of integers, find the sum of all odd numbers using Java Streams.
+40	How do you check if none of the strings in a list contain a specific character using Java Streams?
+41	Write a Java Stream to filter out all strings with a length between 5 and 10 (inclusive).
+42	Given a list of strings, find the number of strings that contain the letter 'a' using Java Streams.
+43	How do you check if a list of integers contains duplicates using Java Streams?
+44	Write a Java Stream to find the second to last element in a list of strings.
+45	Given a list of doubles, find the average of the absolute values using Java Streams.
+46	How do you check if all elements in a list of strings are non-null using Java Streams?
+47	Write a Java Stream to remove all whitespace from a list of strings.
+48	Given a list of integers, find the sum of all positive numbers using Java Streams.
+49	How do you check if any element in a list of strings is an empty string using Java Streams?
+50	Write a Java Stream to find the longest string that starts with a consonant in a list of strings.
+1	Given a list of integers, find the sum of all elements using Java Streams.
+2	How do you find the maximum value in a list of integers using Java Streams?
+3	Write a Java Stream to convert a list of strings to uppercase.
+4	Given a list of strings, filter out all strings with a length less than 5 using Java Streams.
+5	Write a Java Stream to find the average of a list of doubles.
+6	Given a list of integers, find the product of all elements using Java Streams.
+7	Write a Java Stream to remove all duplicates from a list of strings.
+8	Given a list of integers, find the square of each number using Java Streams.
+9	How do you sort a list of strings in ascending order using Java Streams?
+10	Write a Java Stream to filter out all even numbers from a list of integers.
+11	Given a list of strings, concatenate them all into a single string using Java Streams.
+12	Write a Java Stream to find the minimum value in a list of doubles.
+13	Given a list of strings, count the number of occurrences of a specific character using Java Streams.
+14	How do you check if a list of strings contains a specific substring using Java Streams?
+15	Write a Java Stream to find the longest string in a list of strings.
+16	Given a list of integers, find the average of the square of each number using Java Streams.
+17	Write a Java Stream to filter out all strings that start with a certain prefix.
+18	How do you check if all elements in a list of booleans are true using Java Streams?
+19	Given a list of strings, sort them in descending order of their lengths using Java Streams.
+20	Write a Java Stream to find the first 5 elements of a list of integers.
+21	Given a list of strings, find the shortest string length using Java Streams.
+22	How do you check if any element in a list of integers is divisible by a specific number using Java Streams?
+23	Write a Java Stream to find the third to sixth elements of a list of strings.
+24	Given a list of integers, find the maximum value less than 100 using Java Streams.
+25	How do you check if none of the elements in a list of strings are empty using Java Streams?
+26	Write a Java Stream to find the sum of the squares of even numbers in a list of integers.
+27	Given a list of strings, remove all strings with a length greater than 10 using Java Streams.
+28	How do you check if a list of strings contains at least one palindrome using Java Streams?
+29	Write a Java Stream to find the distinct characters in a list of strings.
+30	Given a list of integers, find the product of the square of each number using Java Streams.
+31	How do you check if a list of strings contains only numeric values using Java Streams?
+32	Write a Java Stream to filter out all strings that are null or empty.
+33	Given a list of strings, find the average length of the strings using Java Streams.
+34	How do you check if all elements in a list of integers are positive using Java Streams?
+35	Write a Java Stream to find the second smallest element in a list of integers.
+36	Given a list of strings, find the number of strings that have a length of 7 using Java Streams.
+37	How do you check if any element in a list of doubles is NaN using Java Streams?
+38	Write a Java Stream to find the maximum length among strings that start with a vowel in a list of strings.
+39	Given a list of integers, find the sum of all odd numbers using Java Streams.
+40	How do you check if none of the strings in a list contain a specific character using Java Streams?
+41	Write a Java Stream to filter out all strings with a length between 5 and 10 (inclusive).
+42	Given a list of strings, find the number of strings that contain the letter 'a' using Java Streams.
+43	How do you check if a list of integers contains duplicates using Java Streams?
+44	Write a Java Stream to find the second to last element in a list of strings.
+45	Given a list of doubles, find the average of the absolute values using Java Streams.
+46	How do you check if all elements in a list of strings are non-null using Java Streams?
+47	Write a Java Stream to remove all whitespace from a list of strings.
+48	Given a list of integers, find the sum of all positive numbers using Java Streams.
+49	How do you check if any element in a list of strings is an empty string using Java Streams?
+50	Write a Java Stream to find the longest string that starts with a consonant in a list of strings.
